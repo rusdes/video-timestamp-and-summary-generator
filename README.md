@@ -2,8 +2,7 @@
 ## Methodology
 The method starts by calculating superframe cut scores,
 motion scores and uniqueness scores of each frame in
-the video. The different scores that are calcu-
-lated are colourfulness, contrast, edges and superframe
+the video. The different scores that are calculated are colourfulness, contrast, edges and superframe
 quality. Then a threshold filter is applied to all frames
 and their timestamps. From the segments which are
 above the threshold value, using dimension reduction and dy-
