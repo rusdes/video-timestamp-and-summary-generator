@@ -14,3 +14,5 @@ A tf.keras model is generated where the output layer
 is the last convolutional layer in the InceptionV3 ar-
 chitecture. CNN encoder and a RNN decoder is
 used for the entire model.
+
+Presented at [The International Conference on Advances in Computer Engineering & Communication Technology (2021)](http://icacet.in/) (Paper ID:66)
