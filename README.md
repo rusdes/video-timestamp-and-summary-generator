@@ -15,6 +15,6 @@ is the last convolutional layer in the InceptionV3 ar-
 chitecture. CNN encoder and a RNN decoder is
 used for the entire model.
 
-Presented at [The International Conference on Advances in Computer Engineering & Communication Technology (2021)](http://icacet.in/) (Paper ID: 166; In press)
+Presented at [2022 Asian Conference on Innovation in Technology (ASIANCON)](https://ieeexplore.ieee.org/xpl/conhome/9908521/proceeding)
 
-Link to paper: [Video to Text Summarization and Timestamp Generation to Detect Important Events](https://github.com/rusdes/video-timestamp-and-summary-generator/blob/a6e60b61710f94df38b5856784abc66da5d787cb/Video_Timestamp_and_Summary_Generator_paper.pdf)
+DOI: [10.1109/ASIANCON55314.2022.9909008](https://doi.org/10.1109/ASIANCON55314.2022.9909008)
