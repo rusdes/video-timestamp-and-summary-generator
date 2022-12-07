@@ -11,8 +11,7 @@ key frames are given as output and are saved. Two such collections are produced,
 superframe cuts for the summary and the second for
 the timestamps in the videos. Next, InceptionV3 is used as a preprocessing layer.
 A tf.keras model is generated where the output layer
-is the last convolutional layer in the InceptionV3 ar-
-chitecture. CNN encoder and a RNN decoder is
+is the last convolutional layer in the InceptionV3 architecture. CNN encoder and a RNN decoder is
 used for the entire model.
 
 Presented at [2022 Asian Conference on Innovation in Technology (ASIANCON)](https://ieeexplore.ieee.org/xpl/conhome/9908521/proceeding)
