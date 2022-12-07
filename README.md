@@ -1,4 +1,4 @@
-# video-timestamp-and-summary-generator
+# Video to Text Summarisation and Timestamp Generation to Detect Important Events
 ## Methodology
 The method starts by calculating superframe cut scores,
 motion scores and uniqueness scores of each frame in
